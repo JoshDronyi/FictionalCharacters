@@ -12,6 +12,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.rave.professionalcontactcard.ui.theme.ProfessionalContactCardTheme
 
+/**
+ * Starting point of the application. activity
+ *
+ * @constructor Create empty Main activity
+ */
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
