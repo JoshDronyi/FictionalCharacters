@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FizzBuzzification</string>
+    <string name="content_text">Our current set of hundreds is %d</string>
+
+</resources>
